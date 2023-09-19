@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.75d22de6.css",
+    "main.js": "/react-gh-pages/static/js/main.f213fecf.js",
+    "static/media/sumanth photo.jpeg": "/react-gh-pages/static/media/sumanth photo.423d6fabf3588a7d0546.jpeg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.75d22de6.css.map": "/react-gh-pages/static/css/main.75d22de6.css.map",
+    "main.f213fecf.js.map": "/react-gh-pages/static/js/main.f213fecf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75d22de6.css",
+    "static/js/main.f213fecf.js"
+  ]
+}
